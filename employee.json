@@ -1,0 +1,202 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Karim",
+      "lastName": "Laribi",
+      "country": "TUNISIA",
+      "departmentId": 1,
+      "email": "karim.laribi@example.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Angelina",
+      "lastName": "Jolie",
+      "country": "USA",
+      "departmentId": 4,
+      "email": "angelina.jolie@example.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Robert",
+      "lastName": "Downey Jr.",
+      "country": "BELGIUM",
+      "departmentId": 2,
+      "email": "robert.downey@example.com"
+    },
+    {
+      "firstName": "Hello",
+      "lastName": "Testers",
+      "country": "Canada",
+      "departmentId": 1,
+      "id": 5,
+      "email": "hello.testers@example.com"
+    },
+    {
+      "id": 6,
+      "firstName": "Chris",
+      "lastName": "Evans",
+      "country": "USA",
+      "departmentId": 3,
+      "email": "chris.evans@example.com"
+    },
+    {
+      "id": 7,
+      "firstName": "Scarlett",
+      "lastName": "Johansson",
+      "country": "USA",
+      "departmentId": 2,
+      "email": "scarlett.johansson@example.com"
+    },
+    {
+      "id": 8,
+      "firstName": "Tom",
+      "lastName": "Hanks",
+      "country": "USA",
+      "departmentId": 5,
+      "email": "tom.hanks@example.com"
+    },
+    {
+      "id": 9,
+      "firstName": "Emma",
+      "lastName": "Watson",
+      "country": "UK",
+      "departmentId": 6,
+      "email": "emma.watson@example.com"
+    },
+    {
+      "id": 10,
+      "firstName": "Leonardo",
+      "lastName": "DiCaprio",
+      "country": "USA",
+      "departmentId": 4,
+      "email": "leonardo.dicaprio@example.com"
+    },
+    {
+      "id": 11,
+      "firstName": "Jennifer",
+      "lastName": "Lawrence",
+      "country": "USA",
+      "departmentId": 2,
+      "email": "jennifer.lawrence@example.com"
+    },
+    {
+      "id": 12,
+      "firstName": "Tom",
+      "lastName": "Cruise",
+      "country": "USA",
+      "departmentId": 3,
+      "email": "tom.cruise@example.com"
+    },
+    {
+      "id": 13,
+      "firstName": "Margot",
+      "lastName": "Robbie",
+      "country": "Australia",
+      "departmentId": 6,
+      "email": "margot.robbie@example.com"
+    },
+    {
+      "id": 14,
+      "firstName": "Brad",
+      "lastName": "Pitt",
+      "country": "USA",
+      "departmentId": 4,
+      "email": "brad.pitt@example.com"
+    },
+    {
+      "id": 15,
+      "firstName": "Natalie",
+      "lastName": "Portman",
+      "country": "Israel",
+      "departmentId": 2,
+      "email": "natalie.portman@example.com"
+    },
+    {
+      "id": 16,
+      "firstName": "Will",
+      "lastName": "Smith",
+      "country": "USA",
+      "departmentId": 3,
+      "email": "will.smith@example.com"
+    },
+    {
+      "id": 17,
+      "firstName": "Cate",
+      "lastName": "Blanchett",
+      "country": "Australia",
+      "departmentId": 6,
+      "email": "cate.blanchett@example.com"
+    },
+    {
+      "id": 18,
+      "firstName": "Ryan",
+      "lastName": "Gosling",
+      "country": "Canada",
+      "departmentId": 4,
+      "email": "ryan.gosling@example.com"
+    },
+    {
+      "id": 19,
+      "firstName": "Charlize",
+      "lastName": "Theron",
+      "country": "South Africa",
+      "departmentId": 2,
+      "email": "charlize.theron@example.com"
+    },
+    {
+      "id": 20,
+      "firstName": "Christian",
+      "lastName": "Bale",
+      "country": "UK",
+      "departmentId": 3,
+      "email": "christian.bale@example.com"
+    },
+    {
+      "id": 21,
+      "firstName": "Meryl",
+      "lastName": "Streep",
+      "country": "USA",
+      "departmentId": 5,
+      "email": "meryl.streep@example.com"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "title": "QA Engineering"
+    },
+    {
+      "id": 2,
+      "title": "Sales & Marketing"
+    },
+    {
+      "id": 3,
+      "title": "Customer Support"
+    },
+    {
+      "id": 4,
+      "title": "HR Management"
+    },
+    {
+      "id": 5,
+      "title": "IT Support"
+    },
+    {
+      "id": 6,
+      "title": "Finance"
+    },
+    {
+      "id": 7,
+      "title": "Legal"
+    },
+    {
+      "id": 8,
+      "title": "Research & Development"
+    },
+    {
+      "id": 9,
+      "title": "Operations"
+    }
+  ]
+}

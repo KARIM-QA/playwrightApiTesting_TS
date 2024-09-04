@@ -1,0 +1,24 @@
+{
+  "name": "playwrightapitesting_ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:get-api": "playwright test --config=api.config.ts --project=chromium get-api.spec.ts",
+    "test:post-api": "playwright test --config=api.config.ts --project=chromium post-api.spec.ts",
+    "test:put-api": "playwright test --config=api.config.ts --project=chromium put-api.spec.ts",
+    "test:delete-api": "playwright test --config=api.config.ts --project=chromium delete-api.spec.ts",
+    "playwright-generating:allure-report": "allure generate allure_results -o allure-report --clean && allure open allure-report",
+    "clean-playwright-reports": "rimraf  allure-report allure_results playwright-report test-results"
+  },
+  "keywords": [],
+  "author": "Karim Laribi",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.3",
+    "allure-playwright": "^2.9.0",
+    "playwright": "^1.46.1",
+    "rimraf": "^5.0.10"
+  }
+}
